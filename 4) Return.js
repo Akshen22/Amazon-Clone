@@ -1,4 +1,5 @@
-#previously we couldn't see output in the console, it used to be:undefended 
+#previously we couldn't see the output in the console, it used to be: undefined
+#so, I will use return!
 
 function Hello(age, address) 
 {
