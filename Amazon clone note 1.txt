@@ -1,0 +1,40 @@
+1) Lot's of computers -> using google -> everyone's ip address is captured -> group of ip address is formed
+
+2) Chrome javascript:
+Right click -> inspect -> console ->
+
+a) alert("Hello World");
+-> gives output: Hello World
+b) alert("Hello);
+   alert("How are you?");
+-> gives output, one by one!
+
+Other way:
+Sources -> click: >> -> snippet -> new snippet
+
+3) ctrl l: to clear console
+
+4) As alert gives you an input written inside console, what if you want to take an input from user?
+For that, write: prompt("What is your name?")
+Output: User needs to write (Akshen)
+
+5) Suppose you made a e-commerce site & wanna change the listed product name, you can do it using console, but what when there's many similar numbers? We cannot look at 1000's of same numbers and change it..
+So, will use "var"
+
+a) var rent = 1000 -> saves it..
+b) console.log(rent), once we write, we get: -> 1000
+c) similarly it does works when you work with prompt but not alert
+
+6) To know the type of data in javascript 
+-> typeof("Akshen2208@")
+-> typeof(1000)
+-> typeof(True)
+
+7) To display all at once:
+alert("Hello "+name+", How are you?"+" Here's your rent, Rs."+rent)
+-> Hello Akshen, How are you? Here's your rent, Rs.1000
+
+8) Length:
+-> name.length -> 6
+-> Akshen Dhami.length -> 12
+
